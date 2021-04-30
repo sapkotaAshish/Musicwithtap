@@ -7,3 +7,5 @@ A very small Js project to change music with a tap
 #
 Note: abc.mp3, def.mp3 etc .... are the name of the audio files enlisted in the audio player. (Here only 6 songs are added 
 as a prototype)
+
+# the Png file shows the output of the project where different colors are representing different songs
